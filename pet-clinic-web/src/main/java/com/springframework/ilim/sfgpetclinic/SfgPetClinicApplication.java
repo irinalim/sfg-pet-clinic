@@ -1,4 +1,4 @@
-package com.springframework.ilim;
+package com.springframework.ilim.sfgpetclinic;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

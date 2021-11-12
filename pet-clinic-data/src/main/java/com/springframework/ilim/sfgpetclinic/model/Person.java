@@ -1,4 +1,4 @@
-package com.springframework.ilim.model;
+package com.springframework.ilim.sfgpetclinic.model;
 
 public class Person {
     private String firstName;

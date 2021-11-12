@@ -1,4 +1,4 @@
-package com.springframework.ilim.model;
+package com.springframework.ilim.sfgpetclinic.model;
 
 public class PetType {
     private String name;
